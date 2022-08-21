@@ -1,1 +1,1 @@
-# Multiple-Regression-on-estimating-the-profit-of-Startups
+# Multiple Regression on estimating the profit of Startups
